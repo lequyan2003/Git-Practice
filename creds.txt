@@ -1,2 +1,0 @@
-username = agdhsgd
-password = g4589w8
